@@ -4,16 +4,19 @@
     "cards": [
       {
         "id": "390310",
-        "balance": 500,
+        "balance": "120,985,97",
         "currency": "RUB",
+        "icon_valuta": "₽",
         "number": "3113444455559857",
-        "name": ""
+        "name": "PERFBUS SAVINGS"
       },
       {
         "id": "431091",
+        "balance": "7,126,55",
         "currency": "USD",
+        "icon_valuta": "$",
         "number": "3113444455789359",
-        "name": ""
+        "name": "PERFBUS CHEECKING"
       }
     ]
   }
