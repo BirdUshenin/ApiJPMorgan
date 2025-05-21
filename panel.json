@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Set up Google Pay",
+    "imageUrl": "https://example.com/images/favorite.png"
+  },
+  {
+    "title": "Deposit Checks",
+    "imageUrl": "https://example.com/images/tram.png"
+  },
+  {
+    "title": "Payment",
+    "imageUrl": "https://example.com/images/macdonald.png"
+  },
+  {
+    "title": "Account Transfer",
+    "imageUrl": "https://example.com/images/plane_mode.png"
+  },
+  {
+    "title": "Pay Billboard",
+    "imageUrl": "https://example.com/images/code.png"
+  },
+  {
+    "title": "QR Code",
+    "imageUrl": "https://example.com/images/qr_code.png"
+  }
+]
